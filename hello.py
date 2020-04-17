@@ -1,5 +1,6 @@
 def hello ():
-    print("Hello, name?")
+    print("Hello world!")
+
 
 
 hello()
